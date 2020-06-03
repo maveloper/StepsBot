@@ -1,5 +1,7 @@
 # StepsBot
 
+## Algorithm:
+
 
 ### _To get to row r and column c [r, c], we will need to have gone:_
 
