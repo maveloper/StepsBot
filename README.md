@@ -1,6 +1,7 @@
 # StepsBot
 
 ## Algorithm:
+_This algorithm moves a robot from the upper left corner to the lower right corner of the grid._
 
 
 ### _To get to row r and column c [r, c], we will need to have gone:_
